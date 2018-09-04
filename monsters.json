@@ -1,0 +1,1340 @@
+[{
+    "name": "Animated broom",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 30"
+},
+{
+    "name": "Beetle, fire",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 33"
+},
+{
+    "name": "Bloodseeker",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 33"
+},
+{
+    "name": "Boar, pig",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 34"
+},
+{
+    "name": "Cat, bobcat",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 37"
+},
+{
+    "name": "Centipede (giant)",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 38"
+},
+{
+    "name": "Dog, guard",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 53"
+},
+{
+    "name": "Goblin warrior",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 74"
+},
+{
+    "name": "Halfling footpad",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 119"
+},
+{
+    "name": "Homunculus",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 80"
+},
+{
+    "name": "Horse, riding pony",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 81"
+},
+{
+    "name": "Kobold warrior",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 83"
+},
+{
+    "name": "Orc brute",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 93"
+},
+{
+    "name": "Pack animal, donkey",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 94"
+},
+{
+    "name": "Pack animal, ox",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 95"
+},
+{
+    "name": "Rat (giant)",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 97"
+},
+{
+    "name": "Skeleton guard",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 106"
+},
+{
+    "name": "Snake, viper",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 107"
+},
+{
+    "name": "Spider swarm",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 108"
+},
+{
+    "name": "Unseen servant",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 110"
+},
+{
+    "name": "Zombie shambler",
+    "level": 0,
+    "source": "Pathfinder Playtest Bestiary, Page 118"
+},
+{
+    "name": "Animated bureau",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 30"
+},
+{
+    "name": "Bat swarm",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 32"
+},
+{
+    "name": "Boggard scout",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 34"
+},
+{
+    "name": "Camel",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 37"
+},
+{
+    "name": "Cat, leopard",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 37"
+},
+{
+    "name": "Demon, quasit",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 44"
+},
+{
+    "name": "Devil, imp",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 51"
+},
+{
+    "name": "Dog, riding dog",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 53"
+},
+{
+    "name": "Drow fighter",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 61"
+},
+{
+    "name": "Eel, electric",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 62"
+},
+{
+    "name": "Elemental, air mephit",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 62"
+},
+{
+    "name": "Elemental, earth mephit",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 64"
+},
+{
+    "name": "Elemental, fire mephit",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 65"
+},
+{
+    "name": "Elemental, water mephit",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 67"
+},
+{
+    "name": "Ghoul",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 70"
+},
+{
+    "name": "Goblin commando",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 74"
+},
+{
+    "name": "Goblin dog",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 74"
+},
+{
+    "name": "Goblin pyro",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 74"
+},
+{
+    "name": "Goblin war chanter",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 74"
+},
+{
+    "name": "Hobgoblin soldier",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 80"
+},
+{
+    "name": "Horse, riding horse",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 81"
+},
+{
+    "name": "Horse, war pony",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 81"
+},
+{
+    "name": "Hyena",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 82"
+},
+{
+    "name": "Kobold scout",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 83"
+},
+{
+    "name": "Lizardfolk scout",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 87"
+},
+{
+    "name": "Lizardfolk warrior",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 87"
+},
+{
+    "name": "Orc warrior",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 93"
+},
+{
+    "name": "Rat swarm",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 97"
+},
+{
+    "name": "Reefclaw",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 98"
+},
+{
+    "name": "Sewer ooze",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 103"
+},
+{
+    "name": "Snake, ball python",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 107"
+},
+{
+    "name": "Spider, hunting",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 107"
+},
+{
+    "name": "Wolf",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 117"
+},
+{
+    "name": "Xulgath warrior",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 117"
+},
+{
+    "name": "Zombie, plague",
+    "level": 1,
+    "source": "Pathfinder Playtest Bestiary, Page 118"
+},
+{
+    "name": "Animated armor",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 30"
+},
+{
+    "name": "Bat, giant",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 32"
+},
+{
+    "name": "Boar",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 34"
+},
+{
+    "name": "Bugbear thug",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 35"
+},
+{
+    "name": "Caligni creeper",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 36"
+},
+{
+    "name": "Cat, panther",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 37"
+},
+{
+    "name": "Choker",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 39"
+},
+{
+    "name": "Crocodile",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 39"
+},
+{
+    "name": "Demon, sloth",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 45"
+},
+{
+    "name": "Devil, lemure",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 51"
+},
+{
+    "name": "Dinosaur, deinonychus",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 52"
+},
+{
+    "name": "Gnoll warrior",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 73"
+},
+{
+    "name": "Gray ooze",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 77"
+},
+{
+    "name": "Horse, war horse",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 81"
+},
+{
+    "name": "Kobold dragon mage",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 83"
+},
+{
+    "name": "Lizardfolk druid",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 87"
+},
+{
+    "name": "Mummy guard",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 89"
+},
+{
+    "name": "Orc warchief",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 94"
+},
+{
+    "name": "Pterosaur, pteranodon",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 96"
+},
+{
+    "name": "Sahuagin warrior",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 100"
+},
+{
+    "name": "Serpentfolk",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 103"
+},
+{
+    "name": "Shark, blue",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 104"
+},
+{
+    "name": "Sinspawn",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 105"
+},
+{
+    "name": "Skeleton, skeletal champion",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 106"
+},
+{
+    "name": "Snake, viper (giant)",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 107"
+},
+{
+    "name": "Vargouille",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 113"
+},
+{
+    "name": "Warg",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 114"
+},
+{
+    "name": "Werecreature, wererat rogue",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 115"
+},
+{
+    "name": "Zombie brute",
+    "level": 2,
+    "source": "Pathfinder Playtest Bestiary, Page 118"
+},
+{
+    "name": "Animated statue",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 30"
+},
+{
+    "name": "Ankhrav",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 31"
+},
+{
+    "name": "Bear, grizzly",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 33"
+},
+{
+    "name": "Bugbear fighter",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 35"
+},
+{
+    "name": "Bunyip",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 36"
+},
+{
+    "name": "Cat, lion",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 37"
+},
+{
+    "name": "Cleric of Rovagug",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 119"
+},
+{
+    "name": "Cockatrice",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 39"
+},
+{
+    "name": "Doppelganger",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 53"
+},
+{
+    "name": "Drow noble cleric",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 62"
+},
+{
+    "name": "Dryad",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 62"
+},
+{
+    "name": "Elemental, air (minor)",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 63"
+},
+{
+    "name": "Elemental, earth (minor)",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 64"
+},
+{
+    "name": "Elemental, fire (minor)",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 65"
+},
+{
+    "name": "Elemental, water (minor)",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 67"
+},
+{
+    "name": "Gelatinous cube",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 69"
+},
+{
+    "name": "Ghoul, ghast",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 71"
+},
+{
+    "name": "Hell hound",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 80"
+},
+{
+    "name": "Hyena, hyaenodon",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 82"
+},
+{
+    "name": "Mercenary scout",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 119"
+},
+{
+    "name": "Ogre",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 91"
+},
+{
+    "name": "Rust monster",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 100"
+},
+{
+    "name": "Scorpion, giant",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 102"
+},
+{
+    "name": "Serpentfolk, degenerate",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 103"
+},
+{
+    "name": "Vile necromancer",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 119"
+},
+{
+    "name": "Werecreature, werewolf fighter",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 116"
+},
+{
+    "name": "Wight",
+    "level": 3,
+    "source": "Pathfinder Playtest Bestiary, Page 116"
+},
+{
+    "name": "Barghest",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 31"
+},
+{
+    "name": "Caligni stalker",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 36"
+},
+{
+    "name": "Cat, tiger",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 38"
+},
+{
+    "name": "Gargoyle",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 69"
+},
+{
+    "name": "Ghost commoner",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 70"
+},
+{
+    "name": "Gnoll sergeant",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 73"
+},
+{
+    "name": "Hag, green",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 78"
+},
+{
+    "name": "Hobgoblin sniper",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 80"
+},
+{
+    "name": "Genie, janni",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 69"
+},
+{
+    "name": "Mimic",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 88"
+},
+{
+    "name": "Minotaur",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 89"
+},
+{
+    "name": "Otyugh",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 94"
+},
+{
+    "name": "Owlbear",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 94"
+},
+{
+    "name": "Sahuagin mutant",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 100"
+},
+{
+    "name": "Shadow",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 103"
+},
+{
+    "name": "Shark, great white",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 105"
+},
+{
+    "name": "Vampire spawn rogue",
+    "level": 4,
+    "source": "Pathfinder Playtest Bestiary, Page 113"
+},
+{
+    "name": "Alchemical renegade",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 120"
+},
+{
+    "name": "Cat, smilodon",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 38"
+},
+{
+    "name": "Cyclops",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 39"
+},
+{
+    "name": "Demonologist",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 119"
+},
+{
+    "name": "Devil, bearded",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 48"
+},
+{
+    "name": "Elemental, air (lesser)",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 63"
+},
+{
+    "name": "Elemental, earth (lesser)",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 64"
+},
+{
+    "name": "Elemental, fire (lesser)",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 66"
+},
+{
+    "name": "Elemental, water (lesser)",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 67"
+},
+{
+    "name": "Harpy",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 79"
+},
+{
+    "name": "Ochre jelly",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 91"
+},
+{
+    "name": "Poltergeist",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 95"
+},
+{
+    "name": "Redcap",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 98"
+},
+{
+    "name": "Troll",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 110"
+},
+{
+    "name": "Warg, winter wolf",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 114"
+},
+{
+    "name": "Yeti",
+    "level": 5,
+    "source": "Pathfinder Playtest Bestiary, Page 118"
+},
+{
+    "name": "Bear, cave",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 33"
+},
+{
+    "name": "Demon, lust",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 42"
+},
+{
+    "name": "Dinosaur, ankylosaurus",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 52"
+},
+{
+    "name": "Dragon, white (young)",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 59"
+},
+{
+    "name": "Drider",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 61"
+},
+{
+    "name": "Ettin",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 68"
+},
+{
+    "name": "Hydra",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 81"
+},
+{
+    "name": "Manticore",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 87"
+},
+{
+    "name": "Mummy retainer",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 89"
+},
+{
+    "name": "Nightmare",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 90"
+},
+{
+    "name": "Salamander",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 101"
+},
+{
+    "name": "Shambler",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 104"
+},
+{
+    "name": "Treant, animated tree",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 110"
+},
+{
+    "name": "Vampire count",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 112"
+},
+{
+    "name": "Will-o’-wisp",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 116"
+},
+{
+    "name": "Wraith",
+    "level": 6,
+    "source": "Pathfinder Playtest Bestiary, Page 117"
+},
+{
+    "name": "Animated statue (giant)",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 30"
+},
+{
+    "name": "Barghest (greater)",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 32"
+},
+{
+    "name": "Black pudding",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 33"
+},
+{
+    "name": "Cleric of Calistria",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 120"
+},
+{
+    "name": "Demon, blood",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 41"
+},
+{
+    "name": "Dragon, black (young)",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 54"
+},
+{
+    "name": "Elemental, air (major)",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 63"
+},
+{
+    "name": "Elemental, earth (major)",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 64"
+},
+{
+    "name": "Elemental, fire (major)",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 66"
+},
+{
+    "name": "Elemental, water (major)",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 67"
+},
+{
+    "name": "Ghost soldier",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 70"
+},
+{
+    "name": "Giant, hill",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 72"
+},
+{
+    "name": "Medusa",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 88"
+},
+{
+    "name": "Pterosaur, quetzalcoatlus",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 96"
+},
+{
+    "name": "Shadow (greater)",
+    "level": 7,
+    "source": "Pathfinder Playtest Bestiary, Page 104"
+},
+{
+    "name": "Brain collector",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 34"
+},
+{
+    "name": "Bulette",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 35"
+},
+{
+    "name": "Chimera",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 38"
+},
+{
+    "name": "Fury devil",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 49"
+},
+{
+    "name": "Dragon, green (young)",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 57"
+},
+{
+    "name": "Elephant, mastodon",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 68"
+},
+{
+    "name": "Giant, stone",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 73"
+},
+{
+    "name": "Golem, flesh",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 76"
+},
+{
+    "name": "Oni, ogre mage",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 92"
+},
+{
+    "name": "Sandpoint Devil",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 101"
+},
+{
+    "name": "Snake, anaconda (giant)",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 107"
+},
+{
+    "name": "Treant",
+    "level": 8,
+    "source": "Pathfinder Playtest Bestiary, Page 110"
+},
+{
+    "name": "Demon, wrath",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 47"
+},
+{
+    "name": "Devil, bone",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 48"
+},
+{
+    "name": "Dragon, blue (young)",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 55"
+},
+{
+    "name": "Elemental, air (greater)",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 63"
+},
+{
+    "name": "Elemental, earth (greater)",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 65"
+},
+{
+    "name": "Elemental, fire (greater)",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 66"
+},
+{
+    "name": "Elemental, water (greater)",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 67"
+},
+{
+    "name": "Genie, efreeti",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 69"
+},
+{
+    "name": "Giant, frost",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 71"
+},
+{
+    "name": "Hag, night",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 79"
+},
+{
+    "name": "Mummy pharaoh",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 90"
+},
+{
+    "name": "Roc",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 98"
+},
+{
+    "name": "Shark, megalodon",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 105"
+},
+{
+    "name": "Vampire wizard",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 113"
+},
+{
+    "name": "Wraith, dread",
+    "level": 9,
+    "source": "Pathfinder Playtest Bestiary, Page 117"
+},
+{
+    "name": "Demon, slaver",
+    "level": 10,
+    "source": "Pathfinder Playtest Bestiary, Page 45"
+},
+{
+    "name": "Devil, barbed",
+    "level": 10,
+    "source": "Pathfinder Playtest Bestiary, Page 48"
+},
+{
+    "name": "Dinosaur, tyrannosaurus",
+    "level": 10,
+    "source": "Pathfinder Playtest Bestiary, Page 53"
+},
+{
+    "name": "Dragon, red (young)",
+    "level": 10,
+    "source": "Pathfinder Playtest Bestiary, Page 58"
+},
+{
+    "name": "Dragon, white (adult)",
+    "level": 10,
+    "source": "Pathfinder Playtest Bestiary, Page 60"
+},
+{
+    "name": "Ghost mage",
+    "level": 10,
+    "source": "Pathfinder Playtest Bestiary, Page 70"
+},
+{
+    "name": "Giant, fire",
+    "level": 10,
+    "source": "Pathfinder Playtest Bestiary, Page 71"
+},
+{
+    "name": "Golem, clay",
+    "level": 10,
+    "source": "Pathfinder Playtest Bestiary, Page 75"
+},
+{
+    "name": "Masterful rogue",
+    "level": 10,
+    "source": "Pathfinder Playtest Bestiary, Page 120"
+},
+{
+    "name": "Rakshasa",
+    "level": 10,
+    "source": "Pathfinder Playtest Bestiary, Page 97"
+},
+{
+    "name": "Roper",
+    "level": 10,
+    "source": "Pathfinder Playtest Bestiary, Page 99"
+},
+{
+    "name": "Demon, toad",
+    "level": 11,
+    "source": "Pathfinder Playtest Bestiary, Page 46"
+},
+{
+    "name": "Dragon, black (adult)",
+    "level": 11,
+    "source": "Pathfinder Playtest Bestiary, Page 54"
+},
+{
+    "name": "Elemental, air (elder)",
+    "level": 11,
+    "source": "Pathfinder Playtest Bestiary, Page 64"
+},
+{
+    "name": "Elemental, earth (elder)",
+    "level": 11,
+    "source": "Pathfinder Playtest Bestiary, Page 65"
+},
+{
+    "name": "Elemental, fire (elder)",
+    "level": 11,
+    "source": "Pathfinder Playtest Bestiary, Page 66"
+},
+{
+    "name": "Elemental, water (elder)",
+    "level": 11,
+    "source": "Pathfinder Playtest Bestiary, Page 68"
+},
+{
+    "name": "Golem, stone",
+    "level": 11,
+    "source": "Pathfinder Playtest Bestiary, Page 77"
+},
+{
+    "name": "Spider, goliath",
+    "level": 11,
+    "source": "Pathfinder Playtest Bestiary, Page 108"
+},
+{
+    "name": "Demon, slime",
+    "level": 12,
+    "source": "Pathfinder Playtest Bestiary, Page 45"
+},
+{
+    "name": "Dragon, green (adult)",
+    "level": 12,
+    "source": "Pathfinder Playtest Bestiary, Page 57"
+},
+{
+    "name": "Lich",
+    "level": 12,
+    "source": "Pathfinder Playtest Bestiary, Page 85"
+},
+{
+    "name": "Rusalka",
+    "level": 12,
+    "source": "Pathfinder Playtest Bestiary, Page 99"
+},
+{
+    "name": "Sea serpent",
+    "level": 12,
+    "source": "Pathfinder Playtest Bestiary, Page 102"
+},
+{
+    "name": "Valkyrie",
+    "level": 12,
+    "source": "Pathfinder Playtest Bestiary, Page 110"
+},
+{
+    "name": "Banshee",
+    "level": 13,
+    "source": "Pathfinder Playtest Bestiary, Page 31"
+},
+{
+    "name": "Demon, treachery",
+    "level": 13,
+    "source": "Pathfinder Playtest Bestiary, Page 46"
+},
+{
+    "name": "Devil, ice",
+    "level": 13,
+    "source": "Pathfinder Playtest Bestiary, Page 50"
+},
+{
+    "name": "Dragon, blue (adult)",
+    "level": 13,
+    "source": "Pathfinder Playtest Bestiary, Page 55"
+},
+{
+    "name": "Golem, iron",
+    "level": 13,
+    "source": "Pathfinder Playtest Bestiary, Page 76"
+},
+{
+    "name": "Leng spider",
+    "level": 13,
+    "source": "Pathfinder Playtest Bestiary, Page 84"
+},
+{
+    "name": "Oni, ice yai",
+    "level": 13,
+    "source": "Pathfinder Playtest Bestiary, Page 92"
+},
+{
+    "name": "Purple worm",
+    "level": 13,
+    "source": "Pathfinder Playtest Bestiary, Page 96"
+},
+{
+    "name": "Dragon, red (adult)",
+    "level": 14,
+    "source": "Pathfinder Playtest Bestiary, Page 58"
+},
+{
+    "name": "Demon, boar",
+    "level": 14,
+    "source": "Pathfinder Playtest Bestiary, Page 40"
+},
+{
+    "name": "Deh-nolo",
+    "level": 14,
+    "source": "Pathfinder Playtest Bestiary, Page 40"
+},
+{
+    "name": "Oni, fire yai",
+    "level": 14,
+    "source": "Pathfinder Playtest Bestiary, Page 92"
+},
+{
+    "name": "Dragon, white (ancient)",
+    "level": 15,
+    "source": "Pathfinder Playtest Bestiary, Page 60"
+},
+{
+    "name": "Lich, demilich",
+    "level": 15,
+    "source": "Pathfinder Playtest Bestiary, Page 86"
+},
+{
+    "name": "Phoenix",
+    "level": 15,
+    "source": "Pathfinder Playtest Bestiary, Page 95"
+},
+{
+    "name": "Demon, mutilation",
+    "level": 16,
+    "source": "Pathfinder Playtest Bestiary, Page 43"
+},
+{
+    "name": "Devil, horned",
+    "level": 16,
+    "source": "Pathfinder Playtest Bestiary, Page 50"
+},
+{
+    "name": "Dragon, black (ancient)",
+    "level": 16,
+    "source": "Pathfinder Playtest Bestiary, Page 55"
+},
+{
+    "name": "Giant, rune",
+    "level": 16,
+    "source": "Pathfinder Playtest Bestiary, Page 72"
+},
+{
+    "name": "Warsworn",
+    "level": 16,
+    "source": "Pathfinder Playtest Bestiary, Page 114"
+},
+{
+    "name": "Demon, pride",
+    "level": 17,
+    "source": "Pathfinder Playtest Bestiary, Page 44"
+},
+{
+    "name": "Dragon, green (ancient)",
+    "level": 17,
+    "source": "Pathfinder Playtest Bestiary, Page 57"
+},
+{
+    "name": "Oni, water yai",
+    "level": 17,
+    "source": "Pathfinder Playtest Bestiary, Page 93"
+},
+{
+    "name": "Wendigo",
+    "level": 17,
+    "source": "Pathfinder Playtest Bestiary, Page 115"
+},
+{
+    "name": "Dragon, blue (ancient)",
+    "level": 18,
+    "source": "Pathfinder Playtest Bestiary, Page 56"
+},
+{
+    "name": "Golem, adamantine",
+    "level": 18,
+    "source": "Pathfinder Playtest Bestiary, Page 74"
+},
+{
+    "name": "Kraken",
+    "level": 18,
+    "source": "Pathfinder Playtest Bestiary, Page 84"
+},
+{
+    "name": "Norn",
+    "level": 18,
+    "source": "Pathfinder Playtest Bestiary, Page 91"
+},
+{
+    "name": "Saxra",
+    "level": 18,
+    "source": "Pathfinder Playtest Bestiary, Page 101"
+},
+{
+    "name": "Shoggoth",
+    "level": 18,
+    "source": "Pathfinder Playtest Bestiary, Page 105"
+},
+{
+    "name": "Dragon, red (ancient)",
+    "level": 19,
+    "source": "Pathfinder Playtest Bestiary, Page 59"
+},
+{
+    "name": "Grendel",
+    "level": 19,
+    "source": "Pathfinder Playtest Bestiary, Page 77"
+},
+{
+    "name": "Demon, fire",
+    "level": 20,
+    "source": "Pathfinder Playtest Bestiary, Page 42"
+},
+{
+    "name": "Devil, pit fiend",
+    "level": 20,
+    "source": "Pathfinder Playtest Bestiary, Page 51"
+},
+{
+    "name": "Star-spawn of Cthulhu",
+    "level": 20,
+    "source": "Pathfinder Playtest Bestiary, Page 108"
+},
+{
+    "name": "Grim reaper",
+    "level": 21,
+    "source": "Pathfinder Playtest Bestiary, Page 78"
+},
+{
+    "name": "Mu spore",
+    "level": 21,
+    "source": "Pathfinder Playtest Bestiary, Page 89"
+},
+{
+    "name": "Devastator",
+    "level": 22,
+    "source": "Pathfinder Playtest Bestiary, Page 47"
+},
+{
+    "name": "Titan, thanatotic",
+    "level": 22,
+    "source": "Pathfinder Playtest Bestiary, Page 109"
+},
+{
+    "name": "Jabberwock",
+    "level": 23,
+    "source": "Pathfinder Playtest Bestiary, Page 82"
+}]
