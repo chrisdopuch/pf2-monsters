@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import ReactTable from "react-table";
+import "react-table/react-table.css";
+import monsters from './monsters.json'
 
 class App extends Component {
   render() {
@@ -8,11 +11,27 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Pathfinder Playtest Encounter Builder</h1>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <ReactTable
+          data={monsters}
+          columns={[
+            {
+              Header: "Name",
+              accessor: "name",
+            },
+            {
+              Header: "Level",
+              accessor: "level",
+            },
+            {
+              Header: "Source",
+              accessor: "source",
+            },
+          ]}
+          defaultPageSize={10}
+          className="-striped -highlight"
+        />
       </div>
     );
   }
