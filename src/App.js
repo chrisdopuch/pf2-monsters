@@ -12,17 +12,35 @@ import './App.css';
 import "react-table/react-table.css";
 
 class App extends Component {
-  handleClick() {
-    // todo
+  constructor(props) {
+    super(props);
+    this.state = {
+      selections: {},
+    };
+    this.renderSelectorCell = this.renderSelectorCell.bind(this);
+    this.handleClick = this.handleClick.bind(this);
   }
-  renderSelectorCell() {
+  handleClick(value) {
+    const {
+      selections,
+    } = this.state;
+    this.setState({
+      selections: {
+        ...this.state.selections,
+        [value]: selections[value] !== undefined ? this.state.selections[value] + 1 : 1,
+      }
+    });
+  }
+  renderSelectorCell({ row }) {
     return (
-      <Button bsStyle="success" onClick={this.handleClick}>
+      <Button bsStyle="success" onClick={() => this.handleClick(row.name)}>
         <Glyphicon glyph="plus"/>
       </Button>
     );
   }
   render() {
+    const selectedKeys =  Object.keys(this.state.selections);
+    const selectedMonsters = selectedKeys ?  selectedKeys.map((key) => (<p key={key}>{key} x {this.state.selections[key]}</p>)) : 'No monsters selected';
     return (
       <div className="App">
         <header className="App-header">
@@ -35,7 +53,7 @@ class App extends Component {
               <Panel.Heading>
                 <Panel.Title componentClass="h3">Encounter Info</Panel.Title>
               </Panel.Heading>
-              <Panel.Body></Panel.Body>
+              <Panel.Body>{selectedMonsters}</Panel.Body>
             </Panel>
           </section>
           <section className="App-right-section">
@@ -48,16 +66,16 @@ class App extends Component {
                   maxWidth: 75,
                 },
                 {
-                  Header: "Name",
-                  accessor: "name",
+                  Header: 'Name',
+                  accessor: 'name',
                 },
                 {
-                  Header: "Level",
-                  accessor: "level",
+                  Header: 'Level',
+                  accessor: 'level',
                 },
                 {
-                  Header: "Source",
-                  accessor: "source",
+                  Header: 'Source',
+                  accessor: 'source',
                 },
               ]}
               defaultPageSize={10}
